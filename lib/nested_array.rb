@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  produce_storage_room = [
+  produce_storage_room = 
     [CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE]
   # Build an array that contains both of the above arrays
